@@ -21,4 +21,5 @@ public interface ObjectLocators {
 	String obj_DeleteUser_Btn = "//button[contains(text(), 'Delete User')]";
 	String obj_LoginHeader = "//td[@id='headerContainer']";
 	String obj_LoginImage = "//img[contains(@src, '/timer.png')]";
+	String obj_Tasks_Menu = "//div[text()='TASKS']";
 }
